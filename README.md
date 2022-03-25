@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeveloperArmando
+- 👋 Hi, I’m Armando Santiago
 - 👀 I’m interested in continuous learning 
 - 🌱 I’m currently learning java and javascript 
 - 💞️ I’m looking to collaborate on any web project
